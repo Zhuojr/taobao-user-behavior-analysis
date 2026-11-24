@@ -1,0 +1,15 @@
+# 数据文件：体积大（UserBehavior.csv 约 3.5GB）且均可由脚本再生，不入库
+# 获取与再生方式见 README.md 的"数据准备"一节
+data/**/*.csv
+data/*.db
+
+# Python 运行产物
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# 环境与 IDE
+.env
+.venv/
+.idea/
+.vscode/

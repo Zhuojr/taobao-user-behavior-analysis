@@ -1,0 +1,500 @@
+{
+  "meta": {
+    "timezone": "Asia/Shanghai",
+    "raw_rows": 99981,
+    "clean_rows": 99918,
+    "date_min": "2017-11-25 00:00:04",
+    "date_max": "2017-12-03 23:59:28"
+  },
+  "kpis": [
+    {
+      "metric": "总行为次数",
+      "value": 99918
+    },
+    {
+      "metric": "独立用户数（UV）",
+      "value": 89224
+    },
+    {
+      "metric": "购买次数",
+      "value": 1958
+    },
+    {
+      "metric": "用户级浏览-购买转化率",
+      "value": 0.0034
+    },
+    {
+      "metric": "顺序浏览-购买转化率",
+      "value": 0.0001
+    },
+    {
+      "metric": "顺序加购-购买转化率",
+      "value": 0.0004
+    },
+    {
+      "metric": "复购率",
+      "value": 0.0067
+    },
+    {
+      "metric": "加购未购买用户数",
+      "value": 5406
+    }
+  ],
+  "behavior_distribution": [
+    {
+      "behavior_type": "pv",
+      "count": 89596
+    },
+    {
+      "behavior_type": "fav",
+      "count": 2849
+    },
+    {
+      "behavior_type": "cart",
+      "count": 5515
+    },
+    {
+      "behavior_type": "buy",
+      "count": 1958
+    }
+  ],
+  "daily_trends": [
+    {
+      "date": "2017-11-25",
+      "daily_active_users": 10051,
+      "purchase_count": 205,
+      "purchase_users": 205
+    },
+    {
+      "date": "2017-11-26",
+      "daily_active_users": 10518,
+      "purchase_count": 190,
+      "purchase_users": 190
+    },
+    {
+      "date": "2017-11-27",
+      "daily_active_users": 9683,
+      "purchase_count": 208,
+      "purchase_users": 207
+    },
+    {
+      "date": "2017-11-28",
+      "daily_active_users": 9547,
+      "purchase_count": 221,
+      "purchase_users": 220
+    },
+    {
+      "date": "2017-11-29",
+      "daily_active_users": 9931,
+      "purchase_count": 211,
+      "purchase_users": 211
+    },
+    {
+      "date": "2017-11-30",
+      "daily_active_users": 9967,
+      "purchase_count": 210,
+      "purchase_users": 210
+    },
+    {
+      "date": "2017-12-01",
+      "daily_active_users": 10496,
+      "purchase_count": 221,
+      "purchase_users": 220
+    },
+    {
+      "date": "2017-12-02",
+      "daily_active_users": 13446,
+      "purchase_count": 244,
+      "purchase_users": 244
+    },
+    {
+      "date": "2017-12-03",
+      "daily_active_users": 13103,
+      "purchase_count": 248,
+      "purchase_users": 247
+    }
+  ],
+  "hourly_activity": [
+    {
+      "hour": 0,
+      "pv": 3006,
+      "fav": 116,
+      "cart": 204,
+      "buy": 37
+    },
+    {
+      "hour": 1,
+      "pv": 1488,
+      "fav": 51,
+      "cart": 78,
+      "buy": 29
+    },
+    {
+      "hour": 2,
+      "pv": 732,
+      "fav": 32,
+      "cart": 45,
+      "buy": 8
+    },
+    {
+      "hour": 3,
+      "pv": 562,
+      "fav": 22,
+      "cart": 27,
+      "buy": 9
+    },
+    {
+      "hour": 4,
+      "pv": 443,
+      "fav": 26,
+      "cart": 30,
+      "buy": 19
+    },
+    {
+      "hour": 5,
+      "pv": 559,
+      "fav": 15,
+      "cart": 33,
+      "buy": 11
+    },
+    {
+      "hour": 6,
+      "pv": 1273,
+      "fav": 30,
+      "cart": 85,
+      "buy": 24
+    },
+    {
+      "hour": 7,
+      "pv": 2195,
+      "fav": 75,
+      "cart": 137,
+      "buy": 27
+    },
+    {
+      "hour": 8,
+      "pv": 3125,
+      "fav": 106,
+      "cart": 188,
+      "buy": 71
+    },
+    {
+      "hour": 9,
+      "pv": 3735,
+      "fav": 108,
+      "cart": 227,
+      "buy": 89
+    },
+    {
+      "hour": 10,
+      "pv": 4239,
+      "fav": 151,
+      "cart": 265,
+      "buy": 125
+    },
+    {
+      "hour": 11,
+      "pv": 4358,
+      "fav": 115,
+      "cart": 259,
+      "buy": 108
+    },
+    {
+      "hour": 12,
+      "pv": 4247,
+      "fav": 136,
+      "cart": 217,
+      "buy": 97
+    },
+    {
+      "hour": 13,
+      "pv": 4591,
+      "fav": 154,
+      "cart": 260,
+      "buy": 129
+    },
+    {
+      "hour": 14,
+      "pv": 4603,
+      "fav": 142,
+      "cart": 251,
+      "buy": 121
+    },
+    {
+      "hour": 15,
+      "pv": 4801,
+      "fav": 144,
+      "cart": 307,
+      "buy": 116
+    },
+    {
+      "hour": 16,
+      "pv": 4685,
+      "fav": 152,
+      "cart": 280,
+      "buy": 108
+    },
+    {
+      "hour": 17,
+      "pv": 4163,
+      "fav": 141,
+      "cart": 235,
+      "buy": 88
+    },
+    {
+      "hour": 18,
+      "pv": 4261,
+      "fav": 130,
+      "cart": 270,
+      "buy": 96
+    },
+    {
+      "hour": 19,
+      "pv": 5473,
+      "fav": 168,
+      "cart": 325,
+      "buy": 120
+    },
+    {
+      "hour": 20,
+      "pv": 6574,
+      "fav": 197,
+      "cart": 390,
+      "buy": 156
+    },
+    {
+      "hour": 21,
+      "pv": 7483,
+      "fav": 217,
+      "cart": 516,
+      "buy": 134
+    },
+    {
+      "hour": 22,
+      "pv": 7421,
+      "fav": 232,
+      "cart": 500,
+      "buy": 132
+    },
+    {
+      "hour": 23,
+      "pv": 5579,
+      "fav": 189,
+      "cart": 386,
+      "buy": 104
+    }
+  ],
+  "top_categories": [
+    {
+      "category_id": 1464116,
+      "purchase_count": 44,
+      "buyer_count": 44
+    },
+    {
+      "category_id": 4145813,
+      "purchase_count": 32,
+      "buyer_count": 32
+    },
+    {
+      "category_id": 2735466,
+      "purchase_count": 30,
+      "buyer_count": 30
+    },
+    {
+      "category_id": 4801426,
+      "purchase_count": 30,
+      "buyer_count": 30
+    },
+    {
+      "category_id": 2885642,
+      "purchase_count": 29,
+      "buyer_count": 29
+    },
+    {
+      "category_id": 903809,
+      "purchase_count": 22,
+      "buyer_count": 22
+    },
+    {
+      "category_id": 2640118,
+      "purchase_count": 21,
+      "buyer_count": 21
+    },
+    {
+      "category_id": 4756105,
+      "purchase_count": 21,
+      "buyer_count": 21
+    },
+    {
+      "category_id": 982926,
+      "purchase_count": 19,
+      "buyer_count": 19
+    },
+    {
+      "category_id": 3607361,
+      "purchase_count": 19,
+      "buyer_count": 19
+    }
+  ],
+  "category_conversion": [
+    {
+      "category_id": 1464116,
+      "buy_count": 44,
+      "cart_count": 58,
+      "fav_count": 21,
+      "pv_count": 660,
+      "browse_to_buy_rate": 0.0667,
+      "cart_to_buy_rate": 0.7586
+    },
+    {
+      "category_id": 4145813,
+      "buy_count": 32,
+      "cart_count": 176,
+      "fav_count": 110,
+      "pv_count": 3169,
+      "browse_to_buy_rate": 0.0101,
+      "cart_to_buy_rate": 0.1818
+    },
+    {
+      "category_id": 2735466,
+      "buy_count": 30,
+      "cart_count": 92,
+      "fav_count": 33,
+      "pv_count": 1121,
+      "browse_to_buy_rate": 0.0268,
+      "cart_to_buy_rate": 0.3261
+    },
+    {
+      "category_id": 4801426,
+      "buy_count": 30,
+      "cart_count": 126,
+      "fav_count": 68,
+      "pv_count": 1879,
+      "browse_to_buy_rate": 0.016,
+      "cart_to_buy_rate": 0.2381
+    },
+    {
+      "category_id": 2885642,
+      "buy_count": 29,
+      "cart_count": 50,
+      "fav_count": 21,
+      "pv_count": 1011,
+      "browse_to_buy_rate": 0.0287,
+      "cart_to_buy_rate": 0.58
+    },
+    {
+      "category_id": 903809,
+      "buy_count": 22,
+      "cart_count": 38,
+      "fav_count": 4,
+      "pv_count": 321,
+      "browse_to_buy_rate": 0.0685,
+      "cart_to_buy_rate": 0.5789
+    },
+    {
+      "category_id": 2640118,
+      "buy_count": 21,
+      "cart_count": 69,
+      "fav_count": 15,
+      "pv_count": 737,
+      "browse_to_buy_rate": 0.0285,
+      "cart_to_buy_rate": 0.3043
+    },
+    {
+      "category_id": 4756105,
+      "buy_count": 21,
+      "cart_count": 176,
+      "fav_count": 165,
+      "pv_count": 4695,
+      "browse_to_buy_rate": 0.0045,
+      "cart_to_buy_rate": 0.1193
+    },
+    {
+      "category_id": 982926,
+      "buy_count": 19,
+      "cart_count": 133,
+      "fav_count": 85,
+      "pv_count": 2753,
+      "browse_to_buy_rate": 0.0069,
+      "cart_to_buy_rate": 0.1429
+    },
+    {
+      "category_id": 3607361,
+      "buy_count": 19,
+      "cart_count": 110,
+      "fav_count": 75,
+      "pv_count": 2992,
+      "browse_to_buy_rate": 0.0064,
+      "cart_to_buy_rate": 0.1727
+    }
+  ],
+  "user_funnel": [
+    {
+      "step": "01_viewed",
+      "users": 80603,
+      "conversion_from_view": 1.0
+    },
+    {
+      "step": "02_favorited",
+      "users": 451,
+      "conversion_from_view": 0.0056
+    },
+    {
+      "step": "03_added_to_cart",
+      "users": 808,
+      "conversion_from_view": 0.01
+    },
+    {
+      "step": "04_purchased",
+      "users": 272,
+      "conversion_from_view": 0.0034
+    }
+  ],
+  "user_segmentation": [
+    {
+      "behavior_depth": "added_to_cart",
+      "purchase_segment": "no_purchase",
+      "users": 5406,
+      "avg_active_days": 1.1842397336293007,
+      "total_purchases": 0,
+      "avg_purchase_count": 0,
+      "avg_cart_count": 1.0135035146133926
+    },
+    {
+      "behavior_depth": "browse_only",
+      "purchase_segment": "no_purchase",
+      "users": 79116,
+      "avg_active_days": 1.0711613327266292,
+      "total_purchases": 0,
+      "avg_purchase_count": 0,
+      "avg_cart_count": 0.0
+    },
+    {
+      "behavior_depth": "favorited",
+      "purchase_segment": "no_purchase",
+      "users": 2757,
+      "avg_active_days": 1.189336235038085,
+      "total_purchases": 0,
+      "avg_purchase_count": 0,
+      "avg_cart_count": 0.0
+    },
+    {
+      "behavior_depth": "purchased",
+      "purchase_segment": "one_purchase",
+      "users": 1932,
+      "avg_active_days": 1.179089026915114,
+      "total_purchases": 1932,
+      "avg_purchase_count": 1,
+      "avg_cart_count": 0.018115942028985508
+    },
+    {
+      "behavior_depth": "purchased",
+      "purchase_segment": "two_to_three",
+      "users": 13,
+      "avg_active_days": 2.8461538461538463,
+      "total_purchases": 26,
+      "avg_purchase_count": 2,
+      "avg_cart_count": 0.07692307692307693
+    }
+  ]
+}

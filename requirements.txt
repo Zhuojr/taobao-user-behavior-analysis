@@ -1,0 +1,7 @@
+# 与已验证的开发环境一致（Python 3.8.8 / Anaconda 2021）
+# 项目所有脚本与测试均在该版本组合下通过验证
+pandas==1.2.4
+numpy==1.24.4
+matplotlib==3.3.4
+seaborn==0.11.1
+pytest==6.2.3
